@@ -4,6 +4,10 @@
 
 ### Purpose
 
+Our team was tasked with creating an analysis of crowdfunding data to explore possible trends in the data in the hopes of informing future kickstarter campaigns.  The specific request for our team was to analyze the data to determine 'how different campaigns fared in relation to their launch dates and their funding goals'.  Thus, our analysis will focus on these two perspectives but will also explore other possible trends.
+
+The data being analyzed 
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
