@@ -11,22 +11,23 @@ The data being analyzed consists of crowdfunding events (n=4114) across a variet
 ## Analysis and Challenges
 
 The first layer of filtering focused on the theater category (n=1393). Our analysis identified that the majority of campaigns in this category were successful (n=839, 60%) and when further filtered to focus on campaigns in the US, this success rate is maintained (n=525, 58%).  In general, when this is compared to the success rates of fundraising campaigns in other categories, such as food (17%) or games (36%), this success rate is encouraging in that fundraising in the theater category is often successful.  
+![Outcomes for Theater - Worldwide](Resources/Parent_Category_Outcomes_All.png)
+![Outcomes for Theater - US](Resources/Parent_Category_Outcomes_US.png)
 
-In the next layer of filtering and sorting, our team focused within the theater category on the play subcategory (n=1066).  Again, the data demonstrates that the majority of campaigns in this subcategory were successful (n=694, 65%) and when focused on campaigns in the US, the success rate is mostly sustained (n=412, 61%). This adds further evidence to the general conclusion that crowdfunding campaigns for theater, and specifically plays, in the US are often successful.  
+In the next layer of filtering and sorting, our team focused within the theater category on the play subcategory (n=1066).  Again, the data demonstrates that the majority of campaigns in this subcategory were successful (n=694, 65%) and when focused on campaigns in the US, the success rate is mostly sustained (n=412, 61%). This adds further evidence to the general conclusion that crowdfunding campaigns for theater, and specifically plays, in the US are often successful. 
+![Outcomes for Plays - Worldwide](Resources/Subcategory_Outcomes_Plays.png) 
 
 Now let's turn to identifying possible strategies the customer can implement to increase the likelihood of achieving a suggessful fundraising campaign for a play in the US.  
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater Oucomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
-
 When the data is filtered to focus on theater fundraising events and the success of those campaigns is compared to the month in which the campaign was launched, the findings seem to suggest a sharp increase in successful events that were initiated in May. However, there was also an increase in failed campaigns for the month of May as well.  When the rates of success are considered instead of counts of successful events, May is found to be slightly higher (67% success) than other months such as April (63%), June (65%), July (63%), September (61%), and November (61%).  These months can be considered as candidates for a launch date to increase the likelihood of a successful campaign. The data also does suggest that December is not an ideal time to launch a fundraising campaign with a success rate no longer in the majority (49%).
+![Theater Oucomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
-
 When the data is further filtered to focus on theater fundraising events for plays only and the outcomes of those campaigns are compared to the initial fundraising goals, the findings suggest that there are goal intervals with markedly different outcome results.  The data shows that, for campaigns with goals up to $5000, the majority of the campaigns are successful by a large margin (75% successful vs. 25% failure).  That margin shrinks considerably when the fundraising goal is between $5000 and $10,000 (55% successful vs. 45% failure).  That margin increases drastically when the fundraising goal is between $10,000 and to just before $20,000 (89% successful vs. 11% failure).  Our analysis focuses on these intervals since the customer previously identified a possible fundraising goal of $10,000.  
+![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
