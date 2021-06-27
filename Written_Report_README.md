@@ -15,7 +15,9 @@ The first layer of filtering focused on the theater category (n=1393). Our analy
 ![Outcomes for Theater - US](Resources/Parent_Category_Outcomes_US.png)
 
 In the next layer of filtering and sorting, our team focused within the theater category on the play subcategory (n=1066).  Again, the data demonstrates that the majority of campaigns in this subcategory were successful (n=694, 65%) and when focused on campaigns in the US, the success rate is mostly sustained (n=412, 61%). This adds further evidence to the general conclusion that crowdfunding campaigns for theater, and specifically plays, in the US are often successful. 
-![Outcomes for Plays - Worldwide](Resources/Subcategory_Outcomes_Plays.PNG) 
+
+![Outcomes for Plays - Worldwide](Resources/Subcategory_Outcomes_Plays_All.PNG) 
+![Outcomes for Plays - US](Resources/Subcategory_Outcomes_Plays.PNG) 
 
 Now let's turn to identifying possible strategies the customer can implement to increase the likelihood of achieving a suggessful fundraising campaign for a play in the US.  
 
