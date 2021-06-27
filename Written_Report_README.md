@@ -24,6 +24,8 @@ When the data is filtered to focus on theater fundraising events and the success
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
+
 When the data is further filtered to focus on theater fundraising events for plays only and the outcomes of those campaigns are compared to the initial fundraising goals, the findings suggest that there are goal intervals with markedly different outcome results.  The data shows that, for campaigns with goals up to $5000, the majority of the campaigns are successful by a large margin (75% successful vs. 25% failure).  That margin shrinks considerably when the fundraising goal is between $5000 and $10,000 (55% successful vs. 45% failure).  That margin increases drastically when the fundraising goal is between $10,000 and to just before $20,000 (89% successful vs. 11% failure).  Our analysis focuses on these intervals since the customer previously identified a possible fundraising goal of $10,000.  
 
 ### Challenges and Difficulties Encountered
